@@ -1,2 +1,31 @@
-# my-blog
-MY FANCY BLOG PROJECT
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My Fancy Blog</title>
+  <link rel="stylesheet" href="style.css">
+  <script defer src="script.js"></script>
+</head>
+<body>
+
+  <nav class="nav">
+    <h2 class="logo">MyBlog</h2>
+    <span class="tagline">Modern thoughts ✨</span>
+  </nav>
+
+  <header class="hero">
+    <h1>Welcome to My Blog</h1>
+    <p>Stories, ideas, and creativity</p>
+  </header>
+
+  <section class="featured" id="featured"></section>
+
+  <main class="posts" id="posts"></main>
+
+  <footer>
+    <p>© 2026 My Fancy Blog</p>
+  </footer>
+
+</body>
+</html>
